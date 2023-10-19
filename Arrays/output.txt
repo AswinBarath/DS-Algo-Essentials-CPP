@@ -1,0 +1,1 @@
+Enter the no. of students: Enter the marks of students: Marks of students: 1, 10, 
